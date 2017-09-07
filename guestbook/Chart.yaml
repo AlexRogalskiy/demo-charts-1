@@ -2,7 +2,7 @@ name: guestbook
 from:
   name: guestbook
   version: 0.0.1
-  repo: https://github.com/deis/demo-charts
+  repo: https://github.com/deisthree/demo-charts
 home: http://github.com/deis/demo-charts/guestbook
 version: 0.0.1
 description: Guestbook Example App

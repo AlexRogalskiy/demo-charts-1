@@ -3,7 +3,7 @@
 ###You need to add this Chart repo to Helm Classic
 ```console
 $ helmc up
-$ helmc repo add demo-charts https://github.com/deis/demo-charts
+$ helmc repo add demo-charts https://github.com/deisthree/demo-charts
 $ helmc up
 ```
 
